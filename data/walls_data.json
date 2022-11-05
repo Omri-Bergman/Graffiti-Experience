@@ -1,0 +1,52 @@
+ [{
+        "name": "wall0.png",
+        "top_l_x": 0,
+        "top_l_y": 0,
+        "top_r_x": 1,
+        "top_r_y": 0,
+        "bot_l_x": 0,
+        "bot_l_y": 1,
+        "bot_r_x": 1,
+        "bot_r_y": 1
+    }, {
+        "name": "wall1.png",
+        "top_l_x": 0,
+        "top_l_y": 0,
+        "top_r_x": 1,
+        "top_r_y": 0,
+        "bot_l_x": 0,
+        "bot_l_y": 0.72,
+        "bot_r_x": 1,
+        "bot_r_y": 0.72
+    }, {
+        "name": "wall2.png",
+        "top_l_x": 0.493,
+        "top_l_y": 0.28,
+        "top_r_x": 0.785,
+        "top_r_y": 0.41,
+        "bot_l_x": 0.493,
+        "bot_l_y": 0.665,
+        "bot_r_x": 0.786,
+        "bot_r_y": 0.79
+    },{
+        "name": "wall3.png",
+        "top_l_x": 0,
+        "top_l_y": 0,
+        "top_r_x": 1,
+        "top_r_y": 0,
+        "bot_l_x": 0,
+        "bot_l_y": 1,
+        "bot_r_x": 1,
+        "bot_r_y": 1
+    },{
+        "name": "wall4.png",
+        "top_l_x": 0.15,
+        "top_l_y": 0.23,
+        "top_r_x": 0.524,
+        "top_r_y": 0.35,
+        "bot_l_x": 0.156,
+        "bot_l_y": 0.924,
+        "bot_r_x": 0.541,
+        "bot_r_y": 0.75
+    }
+]
