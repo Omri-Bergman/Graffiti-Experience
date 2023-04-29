@@ -31,11 +31,5 @@ class Drip {
     lifespan -= 1;
   }
 
-  boolean isDead() {
-    if (lifespan <= 0) {
-      return true;
-    } else {
-      return false;
-    }
-  }
+  boolean isDead() {return (lifespan <= 0); }
 }
